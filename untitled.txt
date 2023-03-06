@@ -15,3 +15,5 @@ https://huggingface.co/course/chapter5/3?fw=pt#creating-a-validation-set
   18606,
   
 #IMPORTANTE: VER SI HAY DUPLICADOS
+
+#Pensar: Tamaño del contexto = tamaño del vocabulario
