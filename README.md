@@ -36,3 +36,12 @@
         "text-generation", model="Br22/br_CLM"#, device=torch.device(0), descomentar si tenes GPU
     )
 ```
+<ol start="3">
+    <li>Probar el modelo:</li>
+</ol>
+
+```
+    texto = "Texto de ejemplo"
+    pipe(texto, max_new_tokens=40, pad_token_id=0, num_return_sequences=1)[0]["generated_text"]
+```
+<p><b>Aclaracion:</b> En la parte final de la notebook IA se crea una funcion que genera texto y nos brinda la facilidad de usar el modelo en español.<p>
