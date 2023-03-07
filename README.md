@@ -1,7 +1,7 @@
 # Causal-Language-Modeling 
 
 <h2>Que es un Casual Languaje Modeling(CLM)?</h2>
-<p>Un CLM tiene la tarea de predir los tokens futuros dado unos tokens previos.</p>
+<p>Un CLM tiene la tarea de predecir los tokens futuros dado unos tokens previos.</p>
 <p>Ejemplo:</p> 
 <ul>
     <li><b>La escuela es</b> divertida.</li>
@@ -24,8 +24,8 @@
 <h3>Que necesito usar para el modelo?</h3>
 <p>Los pasos son los siguientes:</p>
 <ol>
-    <li>Descargar las librerias necesarias: Mas info: https://huggingface.co/docs/transformers/installation#install-with-pip</li>
-    <li>Descargar el modelo: Ejecute el siguiente codigo.</li>
+    <li>Descargar las librerias necesarias: https://huggingface.co/docs/transformers/installation#install-with-pip</li>
+    <li>Descargar el modelo: </li>
 </ol>
 
 ```
