@@ -21,7 +21,7 @@
 <h2>Modelo</h2>
 <h3>Puedo usar el modelo?</h3>
 <p>Si! EL modelo se puede usar sin necesidad de ejecutar toda la notebook.</p>
-<h3>Que necesito usar para el modelo?</h3>
+<h3>Que necesito para usar para el modelo?</h3>
 <p>Los pasos son los siguientes:</p>
 <ol>
     <li>Descargar las librerias necesarias: https://huggingface.co/docs/transformers/installation#install-with-pip</li>
