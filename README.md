@@ -26,13 +26,13 @@
 <ol>
     <li>Descargar las librerias necesarias: Mas info: https://huggingface.co/docs/transformers/installation#install-with-pip</li>
     <li>Descargar el modelo: Ejecute el siguiente codigo.</li>
-    <li></li>
 </ol>
-    ```
+
+```
     from transformers import pipeline
     import torch
 
     pipe = pipeline(
         "text-generation", model="Br22/br_CLM"#, device=torch.device(0), descomentar si tenes GPU
     )
-    ```
+```
