@@ -1,6 +1,6 @@
 # Causal-Language-Modeling 
 
-<h2>Que es un Causal Languaje Modeling(CLM)?</h2>
+<h2>Que es un Causal Languaje Model(CLM)?</h2>
 <p>Un CLM tiene la tarea de predecir los tokens futuros dado unos tokens previos.</p>
 <p>Ejemplo:</p> 
 <ul>
