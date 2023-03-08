@@ -6,7 +6,7 @@
 <ul>
     <li><b>La escuela es</b> divertida.</li>
     <li><b>La escuela es</b> mi segundo hogar.</li>
-    <li><b>La escuela es</b> divertida.</li>
+    <li><b>La escuela es</b> un sitio donde aprendo.</li>
 </ul>
 <p>Estos textos fueron creados a partir de la cadena <em>La escuela es</em>.</p>
 
